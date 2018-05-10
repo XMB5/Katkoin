@@ -19,6 +19,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/Katkoin/assets/css/style.css?v=1f959e0b36ae6fc81a6df84b0a8dcaae655c2726">
+    <script>
+  (function(b,i,t,C,O,I,N) {
+    window.addEventListener('load',function() {
+      if(b.getElementById(C))return;
+      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
+      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
+    },false)
+  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
+</script>
   </head>
   <body>
 
@@ -26,7 +35,7 @@
       <h1 id="volatility">Volatility</h1>
 <p>Due to the decentralization of cryptocurrencies, cryptocurrencies are extremely voloatile.</p>
 
-<iframe src="https://www.coinbase.com/charts"></iframe>
+<div class="btcwdgt-chart" bw-theme="light"></div>
 
     </section>
 
