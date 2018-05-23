@@ -1,8 +1,11 @@
 # KatKoin
 KatKoin is a new type of cryptocurrency, similar to proof-of-stake cryptocurrencies. If you are new to cryptocurrencies, look at a simple overview of cryptocurrencies [here](simple).
 
+# Aspects of Cryptocurrencies
+Read about the volatility of cryptocurrencies [here](aspects)
+
 # Volatility
-Read about the volatility of cryptocurrencies [here](volatility)
+Read about the volatility of cryptocurrencies [here](Volatility.html)
 
 # Boom
 Read about the boom of cryptocurrencies [here](cryptoboom)
